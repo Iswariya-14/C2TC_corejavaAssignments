@@ -1,6 +1,6 @@
 package com.tnsif.assignmenttwo;
 
-public class AssignmenttwoMain 
+public class AssignmentMain 
 {
 	public static void main(String[] args) {
         // Part 1: Student object
